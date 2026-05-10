@@ -24,3 +24,6 @@ This repository implements an advanced end-to-end deep learning framework for ta
 **Core**: Python, PyTorch / TensorFlow.
 **Data**: Daily frequency (VTI, AGG, DBC, VIX) spanning 20 years (2006–2026).
 **Analysis**: Permutation Feature Importance, Circular Block Bootstrap for statistical significance.
+
+## Documentation
+* [View Presentation Slides](./Riccardo_Gozzo_Quant_Finance.pdf)
